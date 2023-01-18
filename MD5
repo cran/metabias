@@ -1,0 +1,15 @@
+289fc63d5813d06456c4cd6224d4ed8e *DESCRIPTION
+95d4a5711e825c7ddbc7da93db611574 *LICENSE
+132fc30c5bb6b89e66f3cf36695e0f9a *NAMESPACE
+60e1bff2b2a2244daaf6359ef04a7f04 *R/metabias-class.R
+bdac36251b08141aa46183989516f3de *R/metabias-package.R
+1d60b7b9c49ae7c96bc24c6ddb1c9b7b *R/methods.R
+ce1fb5d626b65f5def2a68f7bda288fc *R/params.R
+8c49bd0ecc32dad59ccc9a3205203521 *R/utils.R
+4c0174591b4003d69e16710d5731ff5d *README.md
+0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
+27ba30b02cf74d1af89fd3609ccf9646 *inst/REFERENCES.bib
+d8ab410f787213511b6d8dcabee1b5e0 *man/metabias-class.Rd
+6c1620fc6e752e0e1e1cfb5504b39bff *man/metabias-package.Rd
+e678302bcfe0641f749a0bcae4e9db3b *man/params.Rd
+0ab3e96268fad0adc5d2883c7880f892 *man/robu_ci.Rd
