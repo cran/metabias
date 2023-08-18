@@ -8,23 +8,27 @@ Description: Provides common components (classes, methods, documentation) for
   methods described in, respectively: Mathur & VanderWeele (2020)
   <doi:10.31219/osf.io/s9dp6>; Mathur (2022) <doi:10.31219/osf.io/ezjsx>;
   Mathur (2022) <doi:10.31219/osf.io/u7vcb>.
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
-  person("Mika", "Braginsky", email = "mika.br@gmail.com", role = c("aut", "cre")),
-  person("Maya", "Mathur", email = "mmathur@stanford.edu", role = c("aut")))
-Maintainer: Mika Braginsky <mika.br@gmail.com>
+  person("Mika", "Braginsky", email = "mika.br@gmail.com", role = c("aut")),
+  person("Maya", "Mathur", email = "mmathur@stanford.edu", role = c("aut")),
+  person("Peter", "Solymos", email = "peter@analythium.io", role = c("cre", "ctb"), comment = c(ORCID = "0000-0001-7337-1740"))
+  )
 License: MIT + file LICENSE
-URL: https://github.com/mikabr/metabias
-BugReports: https://github.com/mikabr/metabias/issues
+URL: https://github.com/mathurlabstanford/metabias,
+        https://mathurlabstanford.github.io/metabias/
+BugReports: https://github.com/mathurlabstanford/metabias/issues
 Encoding: UTF-8
 Depends: R (>= 4.1.0)
 Imports: Rdpack
 Suggests: robumeta, rstan
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.3
 RdMacros: Rdpack
 NeedsCompilation: no
-Packaged: 2023-01-17 22:19:02 UTC; mbraginsky
-Author: Mika Braginsky [aut, cre],
-  Maya Mathur [aut]
+Packaged: 2023-08-18 19:16:55 UTC; Peter
+Author: Mika Braginsky [aut],
+  Maya Mathur [aut],
+  Peter Solymos [cre, ctb] (<https://orcid.org/0000-0001-7337-1740>)
+Maintainer: Peter Solymos <peter@analythium.io>
 Repository: CRAN
-Date/Publication: 2023-01-18 08:20:07 UTC
+Date/Publication: 2023-08-18 23:52:36 UTC
